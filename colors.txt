@@ -7,3 +7,5 @@ black
 yellow
 purple
 navy blue
+pink
+teal
