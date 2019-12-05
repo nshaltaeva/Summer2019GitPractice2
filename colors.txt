@@ -11,3 +11,4 @@ pink
 teal
 white
 orange
+Flame
