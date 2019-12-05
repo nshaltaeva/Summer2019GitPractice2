@@ -12,3 +12,5 @@ teal
 white
 orange
 Flame
+fuchia
+
