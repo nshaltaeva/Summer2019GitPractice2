@@ -10,3 +10,4 @@ navy blue
 pink
 teal
 white
+orange
