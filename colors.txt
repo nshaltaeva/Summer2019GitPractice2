@@ -9,3 +9,4 @@ purple
 navy blue
 pink
 teal
+white
