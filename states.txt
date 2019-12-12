@@ -11,3 +11,5 @@ MA
 VA
 AL
 Canada
+AZ
+KS
